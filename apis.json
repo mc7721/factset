@@ -1,0 +1,66 @@
+{
+    "name": "FactSet",
+    "description": "Superior financial research solutions, investment analytics tools & much more on a single customizable interface empowering investment professionals for more than 35 years.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28289-www-factset-com.jpg",
+    "tags": [
+        "api provider",
+        "data provider",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/factset\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FactSet",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28289-www-factset-com.jpg",
+            "humanURL": "https:\/\/www.factset.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/factset-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/factset-research-systems"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@factset.com"
+        },
+        {
+            "type": "Email",
+            "url": "DataPrivacy@Factset.com"
+        },
+        {
+            "type": "Email",
+            "url": "ChannelPartners@factset.com"
+        },
+        {
+            "type": "Email",
+            "url": "media_requests@factset.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@factset.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FactSet"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.factset.com"
+        }
+    ]
+}
